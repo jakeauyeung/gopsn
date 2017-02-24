@@ -1,0 +1,5 @@
+{
+    "editor.fontFamily": "Microsoft YaHei Mono",
+    "editor.fontSize": 12,
+    "go.gopath": "${workspaceRoot}"
+}
